@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>9c62fe9b-738c-4722-bdad-67ddc6f32487</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	  <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
